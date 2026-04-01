@@ -1,0 +1,5 @@
+# IDE
+.idea/
+
+# PDFs originais (binários pesados)
+pdf/
