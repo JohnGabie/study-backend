@@ -61,6 +61,11 @@ Relatório completo em `quizzes/prova_geral_2026-03-31_relatorio.md`.
 ## Discordâncias e Posições Próprias
 - (nenhuma registrada ainda)
 
+## Contexto de Experiência (revelado na Prova 4)
+- **FastAPI:** ~2-3 meses, curso básico + projeto vibecoded com IA. Nunca escreveu endpoint com segurança do zero.
+- **Python:** uso prático sem estudo formal. Vocabulário incompleto — modelo mental presente, sintaxe lacunar.
+- **SQL:** uso superficial. Nunca estudou banco a fundo. SELECT/WHERE funciona, agregações e JOINs complexos não.
+
 ## Histórico de Sessões
 
 ### 2026-04-01 — Setup do sistema + Baseline + Prova Média
